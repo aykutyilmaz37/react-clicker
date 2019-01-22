@@ -3,7 +3,7 @@
 ##  State kullanımına örnek olması açısından yapmış olduğum bir uygulama.
 
 ## DEMO
-https://simple-react-clock.netlify.com/
+https://simple-react-clicker.netlify.com/
 
 ### Paket İçeriği 
 
