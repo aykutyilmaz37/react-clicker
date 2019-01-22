@@ -1,2 +1,19 @@
-## Todo List Uygulaması
-React ile Redux kullanımını mantığını anlamak için görevleri listelediğim  tamamlayıp silebildiğim küçük bir uygulama.
+# React Clock
+
+##  State kullanımına örnek olması açısından yapmış olduğum bir uygulama.
+
+## DEMO
+https://simple-react-clock.netlify.com/
+
+### Paket İçeriği 
+
+ * React 16.7
+ * Bootstrap 3
+ * React-Bootstrap
+ * React Scripts
+ * Sass
+  
+### Kurulum
+  
+  * Projeyi kopyaladıktan sonra 'npm install' komutu ile bağımlılıkları yüklüyoruz.
+  * Yükleme tamamlandıktan sonra npm start diyip projeyi ayağa kaldırabiliriz.
