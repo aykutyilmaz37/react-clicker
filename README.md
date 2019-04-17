@@ -1,5 +1,4 @@
-# React Clock
-
+# React Clicker
 ##  State kullanımına örnek olması açısından yapmış olduğum bir uygulama.
 
 ## DEMO
